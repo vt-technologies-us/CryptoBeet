@@ -1,0 +1,37 @@
+------  ---------  ----
+BTCUSD  BTC/USDT   BTC
+LTCUSD  LTC/USDT   LTC
+ETHUSD  ETH/USDT   ETH
+ETCUSD  ETC/USDT   ETC
+ZECUSD  ZEC/USDT   ZEC
+XMRUSD  XMR/USDT   XMR
+DSHUSD  DASH/USDT  DASH
+XRPUSD  XRP/USDT   XRP
+IOTUSD  IOTA/USDT  IOTA
+NEOUSD  NEO/USDT   NEO
+EOSUSD  EOS/USDT   EOS
+XLMUSD  XLM/USDT   XLM
+TRXUSD  TRX/USDT   TRX
+MGOUSD  MGO/USDT   MGO
+BCHUSD  BCH/USDT   BCH
+------  ---------  ----
+
+A = np.array(
+    [
+        ['BTCUSD', 'BTC/USDT', 'BTC'],
+        ['LTCUSD', 'LTC/USDT', 'LTC'],
+        ['ETHUSD', 'ETH/USDT', 'ETH'],
+        ['ETCUSD', 'ETC/USDT', 'ETC'],
+        ['ZECUSD', 'ZEC/USDT', 'ZEC'],
+        ['XMRUSD', 'XMR/USDT', 'XMR'],
+        ['DSHUSD', 'DASH/USDT', 'DASH'],
+        ['XRPUSD', 'XRP/USDT', 'XRP'],
+        ['IOTUSD', 'IOTA/USDT', 'IOTA'],
+        ['NEOUSD', 'NEO/USDT', 'NEO'],
+        ['EOSUSD', 'EOS/USDT', 'EOS'],
+        ['XLMUSD', 'XLM/USDT', 'XLM'],
+        ['TRXUSD', 'TRX/USDT', 'TRX'],
+        ['MGOUSD', 'MGO/USDT', 'MGO'],
+        ['BCHUSD', 'BCH/USDT', 'BCH'],
+    ]
+)

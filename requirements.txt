@@ -1,0 +1,19 @@
+tables
+numpy
+pandas
+sklearn
+matplotlib
+
+ipython
+jupyter
+
+tensorflow
+keras
+
+tabulate
+
+requests
+# aiohttp
+apscheduler
+
+ccxt

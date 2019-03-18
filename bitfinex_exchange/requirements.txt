@@ -1,0 +1,7 @@
+numpy
+tables
+
+apscheduler
+
+requests
+aiohttp
